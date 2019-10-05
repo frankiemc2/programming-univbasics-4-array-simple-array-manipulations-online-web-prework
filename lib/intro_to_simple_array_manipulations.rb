@@ -19,7 +19,7 @@ continents.delete_at(6)
 
 end
 
-def pop_with_args(array)
+def pop_with_args(dog_breeds)
     dog_breeds = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
   dog_breeds.pop= "Chihuahua", "Shiba Inu"
 end
