@@ -13,7 +13,7 @@ def using_unshift(array,string)
 def using_pop(array)
 
 array = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
-deleted_string = array.pop
+array.pop
 
 end
 
