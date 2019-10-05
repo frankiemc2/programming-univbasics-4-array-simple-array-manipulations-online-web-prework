@@ -11,13 +11,16 @@ def using_unshift(array,string)
   end
 
 def using_pop(array)
-  array.pop
+array.pop
 array = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
 array.pop
 
 end
 
 def pop_with_args(array)
+    array.pop
+  array.pop
     array = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
-  array.pop= "Chihuahua", "Shiba Inu"
+  array.pop
+    array.pop
 end
